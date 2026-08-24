@@ -1,0 +1,33 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+    margin: 0%;
+    padding: 0%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.caixa {
+    background-color: white;
+    color: black;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px black;
+    
+}
+footer{
+    color: white;
+    text-align: center;
+}
+
+select{
+    margin: 15px;
+    width: 100px;
+    height: 180px;
+    font-size: 16px;
+}
